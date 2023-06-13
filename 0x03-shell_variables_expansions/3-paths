@@ -1,2 +1,2 @@
 #!/bin/bash
-find PATH=$PATH/action -type d
+find $PATH=/action -type d
