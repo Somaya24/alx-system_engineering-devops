@@ -1,2 +1,2 @@
 #!/bin/bash
-find $PATH=/action -type d
+find PATH -type d | wc -l
